@@ -19,7 +19,7 @@ If we truly fear, love, and trust in God above all things, then we have no reaso
 * Thursday after Ash Wednesday -- March 3, 2022
 ** Bible Reading: [[https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A23-34&version=ESV][1 Corinthians 11:23-34]]
 ** Reflections:
-./images/2022-03-03-eucharist.png
+[[./images/2022-03-03-eucharist.png]]
 
 Interestingly, today's devotional reading contains the Words of Institution of the Lord's Supper, or Eucharist.
 ** Prayer:
